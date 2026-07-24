@@ -101,32 +101,31 @@
 
 ## Module 5: Static Files
 
-- [[CSS]]
+- [[1. CSS]]    
+- [[2. JavaScript]]
     
-- [[JavaScript]]
+- [[3. Images]]
     
-- [[Images]]
+- [[4. Fonts]]
     
-- [[Fonts]]
-    
-- [[favicon]]
+- [[5. favicon]]
     
 
 ---
 
 ## Module 6: Forms
 
-- [[GET]]
+- [[1. GET]]
     
-- [[POST]]
+- [[2. POST]]
     
-- [[Validation]]
+- [[3. Validation]]
     
-- [[Flash Messages]]
+- [[4. Flash Messages]]
     
-- [[File Upload]]
+- [[5. File Upload]]
     
-- [[WTForms]]
+- [[6. WTForms]]
     
 
 ---
