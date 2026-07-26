@@ -8,7 +8,7 @@
 
 - [[1. What is Flask]]
     
-- [[3. Client-Server Architecture]]
+- [[2. Client-Server Architecture]]
     
 - [[3. HTTP Basics]]
     
