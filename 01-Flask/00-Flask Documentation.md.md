@@ -80,6 +80,8 @@
 
 ## Module 4: Templates (Jinja2)
 
+- [[0. What is Templates]]
+
 - [[1. Variables]]
     
 - [[2. Loops]]
