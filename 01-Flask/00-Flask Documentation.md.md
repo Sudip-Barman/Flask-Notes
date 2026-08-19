@@ -103,6 +103,8 @@
 
 ## Module 5: Static Files
 
+- [[0. What is Static File]]
+	
 - [[1. CSS]]    
 	 
 - [[2. JavaScript]]
