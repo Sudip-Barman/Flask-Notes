@@ -128,7 +128,7 @@
     
 - [[4. Flash Messages]]
     
-- [[5. File Upload]]
+- [[5. Enhanced File Upload]]
     
 - [[6. WTForms]]
     
