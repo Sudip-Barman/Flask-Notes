@@ -211,27 +211,27 @@
 ---
 ## Module 9: Authentication
 
-- [[Register]]
+- [[1. Register]]
 	
-- [[Login]]
+- [[2. Login]]
 	
-- [[Password Hashing]]
+- [[3. Password Hashing]]
 	
-- [[Sessions]]
+- [[4. Sessions]]
 	
-- [[Roles]]
+- [[5. Roles]]
 	
-- [[Permissions]]
+- [[6. Permissions]]
 	
-- [[Logout]]
+- [[7. Logout]]
 
 
 ---
 ## Module 10: REST API
 
-- [[JSON]]
+- [[1. REST API Fundamentals]]
 	
-- [[CRUD API]]
+- [[2. HTTP Methods & Status Codes]]
 	
 - [[Authentication]]
 	
