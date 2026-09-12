@@ -265,55 +265,137 @@
 ---
 ## Module 11: Advanced Flask
 
-- [[Blueprints]]
+- [[1. Application Factory Pattern]]
 	
-- [[Application Factory]]
+- [[2. Blueprints]]
 	
-- [[Configuration]]
+- [[3. Project Structure & Modular Architecture]]
 	
-- [[Environment Variables]]
+- [[4. Configuration Management]]
 	
-- [[CLI]]
+- [[5. Flask Extensions]]
 	
-- [[Logging]]
+- [[6. Custom Decorators & Middleware]]
 	
-- [[Middleware]]
+- [[7. Contexts & Proxies]]
 	
-- [[Project Structure]]
+- [[8. Signals]]
+	
+- [[9. Background Tasks]]
+	
+- [[10. Caching]]
+	
+- [[11. File & Media Management]]
+	
+- [[12. Security Hardening]]
+	
+- [[13. Advanced Database Patterns]]
+	
+- [[14. Testing & Test Architecture]]
+	
+- [[15. Logging & Monitoring]]
+	
+- [[16. Production Deployment Concepts]]
+	
+- [[17. Advanced Flask Best Practices]]
 
 
 ---
 ## Module 12: Deployment
 
-- [[Waitress]]
+- [[1. Development vs Production]]
 	
-- [[Gunicorn]]
+- [[2. WSGI]]
 	
-- [[Docker]]
+- [[3. Application Servers]]
 	
-- [[Google Cloud Run]]
+- [[4. Waitress]]
 	
-- [[Railway]]
+- [[5. Gunicorn]]
 	
-- [[VPS]]
+- [[6. Nginx & Reverse Proxy]]
 	
-- [[Production Configuration]]
+- [[7. Environment Variables & Secrets]]
+	
+- [[8. Production Configuration]]
+	
+- [[9. Docker Fundamentals]]
+	
+- [[10. Dockerfile]]
+	
+- [[11. Docker Compose]]
+	
+- [[12. Database Deployment]]
+	
+- [[13. Google Cloud Run]]
+	
+- [[14. Railway]]
+	
+- [[15. VPS Deployment]]
+	
+- [[16. Domain & DNS]]
+	
+- [[17. HTTPS / SSL]]
+	
+- [[18. Process Management]]
+	
+- [[19. Health Checks]]
+	
+- [[20. Production Logs & Monitoring]]
+	
+- [[21. Deployment Checklist]]
 
 
 ---
 ## Module 13: Best Practices
 
-- [[Security]]
+- [[1. Flask Security]]
 	
-- [[Performance]]
+- [[2. Authentication & Authorization Best Practices]]
 	
-- [[Folder Structure]]
+- [[3. Input Validation]]
 	
-- [[Clean Code]]
+- [[4. SQL Injection Prevention]]
 	
-- [[Optimization]]
+- [[5. XSS & CSRF Protection]]
 	
-- [[Common Mistakes]]
+- [[6. Secure Cookies & Sessions]]
+	
+- [[7. Secret Management]]
+	
+- [[8. Performance Optimization]]
+	
+- [[9. Database Optimization]]
+	
+- [[10. Query Optimization]]
+	
+- [[11. Caching Strategies]]
+	
+- [[12. API Optimization]]
+	
+- [[13. Clean Code]]
+	
+- [[14. Folder Structure]]
+	
+- [[15. Separation of Concerns]]
+	
+- [[16. Service Layer]]
+	
+- [[17. Repository Pattern]]
+	
+- [[18. Error Handling]]
+	
+- [[19. Logging]]
+	
+- [[20. Testing Best Practices]]
+	
+- [[21. Dependency Management]]
+	
+- [[22. Git & Environment Management]]
+	
+- [[23. Common Flask Mistakes]]
+	 
+- [[24. Production Checklist]]
 
 
 ---
