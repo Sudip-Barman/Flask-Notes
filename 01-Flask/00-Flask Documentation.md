@@ -233,13 +233,33 @@
 	
 - [[2. HTTP Methods & Status Codes]]
 	
-- [[Authentication]]
+- [[3. JSON]]
 	
-- [[JWT]]
+- [[4. API Routes & Endpoint Design]]
 	
-- [[Error Handling]]
+- [[5. Request Data]]
 	
-- [[API Best Practices]]
+- [[6. CRUD API]]
+	
+- [[7. API Authentication]]
+	
+- [[8. JWT Authentication]]
+	
+- [[9. Authorization & Protected APIs]]
+	
+- [[10. Error Handling]]
+	
+- [[11. Input Validation]]
+	
+- [[12. Pagination & Filtering]]
+	
+- [[13. API Response Structure]]
+	
+- [[14. CORS]]
+	
+- [[15. API Testing]]
+	
+- [[16. API Best Practices]]
 
 
 ---
